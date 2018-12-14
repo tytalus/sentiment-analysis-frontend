@@ -1,1 +1,1 @@
-# sentiment-kubernetes
+# sentiment-analysis-frontend
